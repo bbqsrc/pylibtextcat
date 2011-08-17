@@ -1,0 +1,6 @@
+Version 0.2 - 17 Dec 2010, by Per Øyvind Karlsen <peroyvind@mandriva.org>
+
+- change module filename to 'textcat' to avoid conflicts
+- fix utf-8 support
+- provide compatibility for libtextcat without OOo patches
+- portability fixes

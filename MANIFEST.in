@@ -1,0 +1,2 @@
+include MANIFEST.in ChangeLog COPYING NEWS setup.cfg
+
